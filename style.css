@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+}
+html{
+    font-family:Arial;
+}
+
+p{
+    font-size: 20px;
+}
+
+.hoje{
+    color:darkred;
+}
+
+.amanha{
+    color:darkblue;
+}
+h2{
+    color:seagreen;
+}
